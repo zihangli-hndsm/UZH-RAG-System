@@ -1,0 +1,11 @@
+- 22.08.11 "Social Realities, Cultural Texts, Nomadic Subjects: Sinophone Responses to a Global Regime of Consumerism." International Conference "Democracy and Development: The Global Challenges for Civil Society." Taiwan Foundation for Democracy, 2011 Assembly of Democracy in Asia, Taipei. Taiwan ROC.
+- 03.10.11 "Rey Chow." Ringvorlesung Literaturtheorie, UZH.
+- 18.10.11 "Made in China: Alte und neue Denkwürdigkeiten aus dem Reich der Mitte." Vortrag an der Senioren Universität Zürich
+- 29.10.11 "Fliehende Objekte: Rey Chows Kritik des Poststrukturalismus." Tagung: Ästhetikdiskurse und Medienwandel in China, Universität Leipzig
+- 04.11.11 Keynote: "Spectrality as an aesthetic category of Asian post-modernities." Workshop Ghosts in Asian Cinemas, UFSP Asien und Europa/Ostasiatisches Seminar der UZH.
+- 09.11.11 "Spuren der Pekingoper in Kunst, Film und Literatur." Museum der Kulturen, Basel.
+- 14.11.11 "Jingju und die Moderne: Variationen von Maske und Verrat," Universität Göttingen.
+- 16.11.11 "China – Kultur und Gesellschaft in Tradition und Moderne." Anlass China im Fokus, Bank Vontobel, Zürich.
+- 20.5.10 „Heim-Suchungen: Geister als Signatur des Hongkong-Kinos,“ Ringvorlesung Japanologie/Sinologie: Geister und Gespenster: Zugänge zu Anderswelten (FS 2010)
+- 13.6.10 „Chinese Studies at the University of Zurich,“ Vortrag für Doktorierende des Chinesischen Seminars der Lingnan University
+- 22.9.10 „Geschichte und Kultur der Megacities – ein blinder Fleck?“ VHS Zürich
