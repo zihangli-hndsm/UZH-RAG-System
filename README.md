@@ -28,7 +28,7 @@ To use the system, follow these steps:
     - mistral:7b-instruct-v0.3-q4_K_M (You can download mistral using 'ollama run' command)
 4. Set up the documents
 5. Run main.py   
-On the first run, a new embeddings  database will be created, which takes about 10 minutes.
+(On the first run, a new embeddings  database will be created, which takes about 10 minutes on my CPU i7-11800H)
 
 ## Acknowledgements
 This project is built with the help of the following open-source projects:
