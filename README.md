@@ -19,7 +19,7 @@ in their own language (as long as the embedding model and the language model sup
 - GPU: NVIDIA GPU with at least 8GB of VRAM
 
 ## Usage
-IMPORTANT: in order to prevent misuse of the data, please email me to get the documents: nkdxzc@outlook.com
+IMPORTANT: in order to prevent misuse of the data, please email me to get the documents: nkdxzc@outlook.com   
 To use the system, follow these steps:
 1. Clone the repository
 2. Install the dependencies
@@ -27,7 +27,7 @@ To use the system, follow these steps:
     - paraphrase-multilingual-mpnet-base-v2
     - mistral:7b-instruct-v0.3-q4_K_M (You can download mistral using 'ollama run' command)
 4. Set up the documents
-5. Run main.py
+5. Run main.py   
 On the first run, a new embeddings  database will be created, which takes about 10 minutes.
 
 ## Acknowledgements
