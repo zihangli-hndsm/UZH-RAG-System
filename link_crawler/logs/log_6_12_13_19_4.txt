@@ -1,3 +1,0 @@
-Start crawling...
-Saved: en_Teaching_teaching.html.md
-No children found for: https://www.pharma.uzh.ch/en/teaching.html
